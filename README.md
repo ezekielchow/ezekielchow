@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [github.com/ezekielchow](github.com/ezekielchow)
+- 👨‍💻 All of my projects are available at [github.com/ezekielchow](https://github.com/ezekielchow)
 
 - 💬 Ask me **Anything about software**
 
 - 📫 How to reach me **ezekielchow94@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/ezekiel-chow/](linkedin.com/in/ezekiel-chow/)
+- 📄 Know about my experiences [linkedin.com/in/ezekiel-chow/](https://linkedin.com/in/ezekiel-chow/)
 
 - ⚡ Fun fact **I’m irreplaceable**
 
